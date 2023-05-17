@@ -11,7 +11,7 @@ import { UserModel } from 'src/user/user.model'
 import { AuthDto } from './dto/auth.dto'
 import { JwtService } from '@nestjs/jwt'
 import { RefreshTokenDto } from './dto/refreshToken.dto'
-import { as } from './../../../client/.next/static/chunks/pages/_app'
+//import { as } from './../../../client/.next/static/chunks/pages/_app'
 
 @Injectable()
 export class AuthService {
